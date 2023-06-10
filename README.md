@@ -1,2 +1,2 @@
 # BasicCalculator
-Calculator with basic arithmetic operators
+* Calculator with basic arithmetic operators
