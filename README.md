@@ -5,3 +5,4 @@
 * Gain exposure to python programming.
 * Program:
   *     BasicCalculator.py
+* Output of program: Two integer numbers and the operator given by the user, and the result of the calculation.
